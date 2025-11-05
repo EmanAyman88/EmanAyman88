@@ -4,13 +4,13 @@
 
 <br clear="both">
 
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">- 🔭 I'm currently working as a Junior AI Engineer.<br>- 📚 I'm currently learning Automation and Business Analysis</p>
+<h3 align="left">- 🔭 I'm currently working as a Junior AI Engineer.<br>- 📚 I'm currently learning Automation and Business Analysis</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img align="right" height="152" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
