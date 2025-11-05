@@ -2,37 +2,37 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/emanaymanelgohary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/emmaan_88" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1A1A1A&logoColor=Black%20&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/emanelgohary101" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EmanAyman88.EmanAyman88&"  />
-</div>
-
-###
+<br clear="both">
 
 <h3 align="left">About Me</h3>
 
 ###
 
+<br clear="both">
+
 <p align="left">- 🔭 I'm currently working as a Junior AI Engineer.<br>- 📚 I'm currently learning Automation and Business Analysis</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/emanaymanelgohary" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/emmaan_88" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="38" height="28" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/emanelgohary101" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="38" height="28" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="152" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
@@ -56,6 +56,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EmanAyman88.EmanAyman88&right_color=aqua"  />
 </div>
 
 ###
@@ -90,5 +98,7 @@
 
 <div align="center">
 </div>
+
+###
 
 ###
